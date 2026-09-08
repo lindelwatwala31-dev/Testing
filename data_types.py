@@ -3,11 +3,17 @@ name = "Linda"                                      # str
 age = 26                                            # int
 weight = 63.5                                       # float
 likes = ["food", "exercise", "netflix"]             # list
+b = 10 > 5                                          #Boolean
 
 print(name)
 print(age)
 print(weight)
 print(likes)
+print(b)
+
+
+
+
 
 
 
