@@ -14,3 +14,5 @@ x = 9
 b = 3
 a = x > b
 print(a)
+print(type(x))
+
